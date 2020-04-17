@@ -1,0 +1,6 @@
+create a git repository
+create Dockerfile
+create requirements.txt
+build a docker: docker build .
+test fastapi (fastapi.tiangolo.com)
+run "docker-compose run app sh -c "uvicorn main:app --port 3000" "
